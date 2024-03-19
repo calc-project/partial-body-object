@@ -1,8 +1,8 @@
-# Data and Code Accompanying the Study "Partial Colexifications Reveal Directionality in Object Naming"
+# Data and Code Accompanying the Study "Partial Colexifications Reveal Directional Tendencies in Object Naming"
 
 When using the data, please quote the original paper (currently under review):
 
-> Tjuka, Annika, and Johann-Mattis List (2024): Partial Colexifications Reveal Directionality in Object Naming. [under review]
+> Tjuka, Annika, and Johann-Mattis List (2024): Partial Colexifications Reveal Directional Tendencies in Object Naming. [under review]
 
 ## Network Representations
 
