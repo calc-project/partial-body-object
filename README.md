@@ -6,4 +6,4 @@ When using the data, please quote the original paper (currently under review):
 
 ## Network Representations
 
-For the exploratory data analysis, we used the TSV file [`list-2023-affix-colexifications-threshold-4`](graphs/list-2023-affix-colexifications-threshold-4.tsv), which we analyzed with the help of [Cytoscape](https://cytoscape.org). See [Tjuka (2024)](https://doi.org/10.15475/calcip.2024.1.2) for a detailed tutorial illustrating how data can be analyzed with Cytoscape.
+For the exploratory data analysis, we used the TSV file [`affix-subgraph.gml`](graphs/affix-subgraph.gml), which we analyzed with the help of [Cytoscape](https://cytoscape.org). See [Tjuka (2024)](https://doi.org/10.15475/calcip.2024.1.2) for a detailed tutorial illustrating how data can be analyzed with Cytoscape.
