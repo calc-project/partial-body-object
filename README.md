@@ -5,21 +5,19 @@
 1. [Introduction](#introduction)
 2. [Citation](#how-to-cite)
 3. [Networks](#network-representations)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Directory](#directory-structure)
 
 ## Introduction
 
 The present study uses the methods and data presented in [List (2023)](https://doi.org/10.3389/fpsyg.2023.1156540) and [Tjuka (2024)](https://doi.org/10.1515/lingty-2023-0032) to investigate the directionality of partial colexifications between the semantic domains of the human body and objects. We test the prediction that meaning extensions move predominantly from the body domain to the object domain.
 
-## How to cite 
+## How to Cite 
 
 When using the data, please quote the original paper:
 
 > Tjuka, Annika, and Johann-Mattis List (2024): Partial Colexifications Reveal Directional Tendencies in Object Naming. _Yearbook of the German Cognitive Linguistics Association_. [accepted]
 
-## Network representations
+## Network Representations
 
 For the exploratory data analysis, we used the TSV file [`affix-subgraph.gml`](graphs/affix-subgraph.gml), which we analyzed with the help of [Cytoscape](https://cytoscape.org). See [Tjuka (2024)](https://doi.org/10.15475/calcip.2024.1.2) for a detailed tutorial illustrating how data can be analyzed with Cytoscape.
 
