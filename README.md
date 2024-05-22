@@ -27,20 +27,20 @@ For the exploratory data analysis, we used the TSV file [`affix-subgraph.gml`](g
 
 Below is the directory structure of the project with comments explaining each part:
 
-[concept-lists/](calc-project/partial-body-object/concept-lists/) 
+[concept-lists/](concept-lists/) 
 - Files provided in previous studies and the basis for the comparison of partial body-object colexifications extracted from [https://github. com/lexibank/tjukabodyobject/tree/v0.1.0](https://github.com/lexibank/tjukabodyobject/tree/v0.1.0) and [https://github.com/lingpy/pacs/tree/v1.0](https://github.com/lingpy/pacs/tree/v1.0).
 
-[directions/](calc-project/partial-body-object/directions/) 
+[directions/](/directions/) 
 - Files with the frequencies of directions of partial body-object colexifications across languages extracted from [https://github.com/lingpy/pacs/tree/v1.0](https://github.com/lingpy/pacs/tree/v1.0).
 
-[graphs/](calc-project/partial-body-object/graphs/) 
+[graphs/](/graphs/) 
 - GML file for partial colexification network extracted from [https://github.com/lingpy/pacs/tree/v1.0][https://github.com/lingpy/pacs/tree/v1.0], Cytoscape files for individual networks, and corresponding PNG files.
 
-[.gitignore](calc-project/partial-body-object/.gitignore) 
+[.gitignore](/.gitignore) 
 - Git ignore file
 
-[LICENSE](calc-project/partial-body-object/LICENSE) 
+[LICENSE](/LICENSE) 
 - License file
 
-[README.md](calc-project/partial-body-object/README.md) 
+[README.md](/README.md) 
 - This README file
