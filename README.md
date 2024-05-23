@@ -1,4 +1,4 @@
-# Data and Code Accompanying the Study "Partial Colexifications Reveal Directional Tendencies in Object Naming"
+# Data Accompanying the Study "Partial Colexifications Reveal Directional Tendencies in Object Naming"
 
 ## Table of Contents
 
