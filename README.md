@@ -1,4 +1,4 @@
-# Data Accompanying the Study "Partial Colexifications Reveal Directional Tendencies in Object Naming"
+# Data and Code Accompanying the Study "Partial Colexifications Reveal Directional Tendencies in Object Naming"
 
 ## Table of Contents
 
@@ -29,16 +29,17 @@ Below is the directory structure of the repository with comments explaining each
 - Files provided in previous studies (List 2023; Tjuka 2024) and the basis for comparing partial body-object colexifications extracted from [https://github. com/lexibank/tjukabodyobject/tree/v0.1.0](https://github.com/lexibank/tjukabodyobject/tree/v0.1.0) and [https://github.com/lingpy/pacs/tree/v1.0](https://github.com/lingpy/pacs/tree/v1.0).
 
 [directions/](/directions/) 
-- Files with the frequencies of directions of partial body-object colexifications across languages extracted from [https://github.com/lingpy/pacs/tree/v1.0](https://github.com/lingpy/pacs/tree/v1.0).
+- Python script calculating the frequency of affix colexifications.
+- Files with the frequencies of directions of partial body-object colexifications across languages.
 
 [graphs/](/graphs/) 
 - GML file for partial colexification network extracted from [https://github.com/lingpy/pacs/tree/v1.0][https://github.com/lingpy/pacs/tree/v1.0], Cytoscape files for individual networks, and corresponding PNG files.
 
 [.gitignore](/.gitignore) 
-- Git ignore file
+- Git ignore file.
 
 [LICENSE](/LICENSE) 
-- License file
+- License file.
 
 [README.md](/README.md) 
-- This README file
+- This README file.
