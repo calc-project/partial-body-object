@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Study](#study)
 2. [Citation](#how-to-cite)
 3. [Networks](#network-representations)
 4. [Directory](#directory-structure)
 
-## Introduction
+## Study
 
 The present study uses the methods and data presented in [List (2023)](https://doi.org/10.3389/fpsyg.2023.1156540) and [Tjuka (2024)](https://doi.org/10.1515/lingty-2023-0032) to investigate the directionality of partial colexifications between the semantic domains of the human body and objects. We test the prediction that meaning extensions move predominantly from the body domain to the object domain.
 
@@ -23,10 +23,10 @@ For the exploratory data analysis, we used the TSV file [`affix-subgraph.gml`](g
 
 ## Directory Structure
 
-Below is the directory structure of the project with comments explaining each part:
+Below is the directory structure of the repository with comments explaining each part:
 
 [concept-lists/](concept-lists/) 
-- Files provided in previous studies and the basis for the comparison of partial body-object colexifications extracted from [https://github. com/lexibank/tjukabodyobject/tree/v0.1.0](https://github.com/lexibank/tjukabodyobject/tree/v0.1.0) and [https://github.com/lingpy/pacs/tree/v1.0](https://github.com/lingpy/pacs/tree/v1.0).
+- Files provided in previous studies (List 2023; Tjuka 2024) and the basis for comparing partial body-object colexifications extracted from [https://github. com/lexibank/tjukabodyobject/tree/v0.1.0](https://github.com/lexibank/tjukabodyobject/tree/v0.1.0) and [https://github.com/lingpy/pacs/tree/v1.0](https://github.com/lingpy/pacs/tree/v1.0).
 
 [directions/](/directions/) 
 - Files with the frequencies of directions of partial body-object colexifications across languages extracted from [https://github.com/lingpy/pacs/tree/v1.0](https://github.com/lingpy/pacs/tree/v1.0).
